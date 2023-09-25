@@ -44,4 +44,19 @@ Para tornar meu relatório ainda mais impressionante, explorei outros recursos e
 
 Em suma, o desafio de criar um relatório mais elaborado no Power BI foi uma experiência enriquecedora. Através da utilização de botões de navegação, segmentadores, indicadores, e várias visualizações, consegui criar um relatório que não só apresentava os dados de forma clara, mas também proporcionava uma experiência de usuário excepcional. Espero que você também possa se inspirar neste relatório para criar suas próprias análises impressionantes no Power BI!
 
+![Captura de Ecrã (109)](https://github.com/Joyzy79/Relat-rio-Power_BI/assets/129207028/3c7f6c43-5f36-40ba-b823-74f06e399d5e)
+***
+![Captura de Ecrã (111)](https://github.com/Joyzy79/Relat-rio-Power_BI/assets/129207028/8ce54f55-89ad-42b8-b550-26eb6d05bbb3)
+***
+![Captura de Ecrã (112)](https://github.com/Joyzy79/Relat-rio-Power_BI/assets/129207028/e0401d99-eab6-4da3-8818-0e715b3d74e7)
+***
+
+
+
 https://powerbi.tips/product/layouts-basic-free/
+
+
+
+
+
+
